@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bea22e9d.css",
-    "main.js": "/react-gh-pages/static/js/main.081411c0.js",
-    "static/js/787.5a7cc1cd.chunk.js": "/react-gh-pages/static/js/787.5a7cc1cd.chunk.js",
-    "static/media/portfolio_image.png": "/react-gh-pages/static/media/portfolio_image.04b70bd1df90eff8b195.png",
-    "static/media/profile_image.jpg": "/react-gh-pages/static/media/profile_image.cd7c88cbe95ff97501ac.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bea22e9d.css.map": "/react-gh-pages/static/css/main.bea22e9d.css.map",
-    "main.081411c0.js.map": "/react-gh-pages/static/js/main.081411c0.js.map",
-    "787.5a7cc1cd.chunk.js.map": "/react-gh-pages/static/js/787.5a7cc1cd.chunk.js.map"
+    "main.css": "/avinash_resume/static/css/main.8d3bf273.css",
+    "main.js": "/avinash_resume/static/js/main.4de4192a.js",
+    "static/js/787.5a7cc1cd.chunk.js": "/avinash_resume/static/js/787.5a7cc1cd.chunk.js",
+    "static/media/portfolio_image.png": "/avinash_resume/static/media/portfolio_image.04b70bd1df90eff8b195.png",
+    "static/media/profile_image.jpg": "/avinash_resume/static/media/profile_image.cd7c88cbe95ff97501ac.jpg",
+    "index.html": "/avinash_resume/index.html",
+    "main.8d3bf273.css.map": "/avinash_resume/static/css/main.8d3bf273.css.map",
+    "main.4de4192a.js.map": "/avinash_resume/static/js/main.4de4192a.js.map",
+    "787.5a7cc1cd.chunk.js.map": "/avinash_resume/static/js/787.5a7cc1cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bea22e9d.css",
-    "static/js/main.081411c0.js"
+    "static/css/main.8d3bf273.css",
+    "static/js/main.4de4192a.js"
   ]
 }
